@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Simple Editor to modify multiple i18n-locales .json files at once.",
   "author": "ArthurMJ96",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/ArthurMJ96/i18n-JSON-Editor---StonksPro.git"
