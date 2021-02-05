@@ -14,6 +14,10 @@ Works only if those files have the same object structure.
 ## Create new locals, with same object structure. + Options
 ![Screenshot 3](/screenshots/3.png?raw=true "Create new locals, with same object structure. + Options")
 
+## Create new entry or sub group at selected key. 
+![Screenshot 9](/screenshots/9.png?raw=true "Create new entry at selected key.")
+![Screenshot 10](/screenshots/10.png?raw=true "Create new sub group at selected key.")
+
 ## Can generate links to Google Translate with prefilled text from defined main language.
 ![Screenshot 4](/screenshots/4.png?raw=true "Can generate links to Google Translate with prefilled text from defined main language.")
 ![Screenshot 5](/screenshots/5.png?raw=true)
