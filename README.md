@@ -4,7 +4,7 @@ Made in 2 days, because I couldn't find the right i18n editor for me.
 Uses express server to serve & save .json files because I intended to run it on a local server and use via web app.  
 Since some people wanted it, I just wrapped it in electron.  
 
-[Link to release download. (Portable & Installer)](https://github.com/ArthurMJ96/i18n-JSON-Editor---StonksPro/releases/tag/1.0.0)
+[Link to release download. (Portable & Installer)](https://github.com/ArthurMJ96/i18n-JSON-Editor---StonksPro/releases)
 
 
 ## Simple UI
